@@ -1,4 +1,4 @@
-A simple Tic-tac-toe game to learn about using the React.js framework and building user interfaces.
+A simple Tic-tac-toe game to learn about using the React.js framework and building interactive user interfaces.
 
 
 # Getting Started with Create React App
